@@ -94,7 +94,7 @@ hangman-game/
 
 ## Author
 
-Your Name
+Divyansh Mathur
 
 ## License
 
