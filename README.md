@@ -6,8 +6,6 @@ A modern, interactive Hangman game built with **Streamlit** and Python.
 
 Try the game online: **[Play Hangman Live](https://hangman-game-divmathur004.streamlit.app)**
 
-> Replace `https://your-app-name.streamlit.app` with your actual deployed Streamlit URL.
-
 ## Features
 
 ✨ **Gameplay**
